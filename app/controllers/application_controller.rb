@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render html: "sayonara world!"
+    render html: "sayonara sekai!"
   end
 end
